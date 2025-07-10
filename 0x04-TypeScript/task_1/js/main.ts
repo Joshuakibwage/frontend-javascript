@@ -33,3 +33,12 @@ const director1: Directors = {
 };
 
 console.log(director1);
+
+
+function printTeacher(firstName: string, lastName: string) {
+  return (
+    
+  )
+  printTeacher("John", "Doe")
+}
+
