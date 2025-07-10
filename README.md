@@ -1,4 +1,4 @@
-# 📘 ALX Frontend JavaScript: TypeScript Projects
+# 📘 ALX Frontend ProDev JavaScript: TypeScript Projects
 
 Welcome to my **ALX ProDev-Frontend TypeScript repository**, a hands-on deep dive into mastering **TypeScript**, a strongly typed superset of JavaScript. This repo showcases my progress in applying OOP principles, advanced types, interfaces, and ambient declarations — all aligned with real-world frontend application development.
 
