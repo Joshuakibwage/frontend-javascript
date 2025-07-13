@@ -73,3 +73,19 @@ function executeWork(employee: Director | Teacher): string {
 
 console.log(executeWork(createEmployee(200)));   // Getting to work
 console.log(executeWork(createEmployee(1000)));  // Getting to director tasks
+
+
+
+
+type Subjects = "Math" | "History";
+
+function teachClass(todaysClass: Subjects): string {
+  if(todaysClass === "Math"){
+    return "Teaching Math";
+  }else if(todaysClass === "History"){
+    return "Teaching History";
+  }
+}
+
+console.log(teachClass("Math"));
+console.log(teachClass("History"));
